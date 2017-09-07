@@ -1,0 +1,3 @@
+.global-dm-nav .dm-new, .global-nav .people .count {
+  display: none !important;
+}
